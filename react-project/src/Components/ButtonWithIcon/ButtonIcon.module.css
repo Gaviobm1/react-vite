@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(231, 80%, 70%);
+  border-radius: 5px;
+}
+
+.icon {
+  padding: 0.2em;
+}

@@ -1,0 +1,14 @@
+.button {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  border-radius: 5px;
+  padding: 0.3em;
+  letter-spacing: inherit;
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  background-color: hsl(231, 100%, 30%);
+  color: hsl(231, 100%, 95%);
+  border: none;
+  width: fit-content;
+  cursor: pointer;
+}
